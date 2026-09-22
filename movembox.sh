@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+2637438616﻿#!/bin/bash
 
 echo "Transfer mezi mailboxservery. v.0.1"
 echo "RUN AS ZIMBRA USER!"
